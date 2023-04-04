@@ -17,7 +17,7 @@ global.sessionId = process.env.SESSION_ID || "ok";
 global.prefa = process.env.PREFIX || "-";
 global.tenorApiKey =
   process.env.TENOR_API_KEY || "AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c";
-global.packname = process.env.PACKNAME || `Atlas MD`;
+global.packname = process.env.PACKNAME || `KELLY`;
 global.author = process.env.AUTHOR || "by: Team IRONBOTZ";
 global.port = process.env.PORT || "8000";
 
